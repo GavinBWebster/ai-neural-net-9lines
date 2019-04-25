@@ -20,6 +20,6 @@ Run python short_version.py in terminal to see it train, then predict.
 
 ##Credits
 
-Credits go to [Milo Harper](https://github.com/miloharper) & anybody else who contributed to the original code. I've modified the code ever so lightly so it works in Python 3.
+Credits go to [Milo Harper](https://github.com/miloharper) & anybody else who contributed to the original code. I've modified the code ever so slightly so it works in Python 3.
 
 NB I used Python version 3.7.1 + Sublime Text 3 version 3.2.1, Build 3207, at the time of this update/commit.
